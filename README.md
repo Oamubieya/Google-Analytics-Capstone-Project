@@ -18,7 +18,8 @@ I used this for the initial cleaning and the processing of the individual .csv f
 
 ### SQL
 
-I imported the twelve CSV files into SQL and merged them into a single file called divvy_trip_data_merged. In total there are 5,723,387 rows. No duplicates or other errors were found in the data. Due to the large amount of units I opted to delete rows with null values in start_station_name and end_station_name leaving a total of 4,641,279 rows.
+Since the dataset was too large to work on in excel I imported the twelve CSV files into SQL and merged them into a single file called divvy_trip_data_merged. In total there are 5,723,387 rows. No duplicates or other errors were found in the data. Due to the large amount of units I opted to delete rows with null values in start_station_name and end_station_name leaving a total of 4,641,279 rows.
+https://console.cloud.google.com/bigquery?sq=986929924807:397a13b493f847f6bd794528f1c85201
 
 ### Tableau
 
