@@ -6,7 +6,8 @@ In this case study I used the data from a fictional bike rental company, Cyclist
 
 ## The Data
 
-To analyze Cyclystics historical trip data I used the previous 12 months of Cyclystic trip data pulled from [divvy trip database](https://divvy-tripdata.s3.amazonaws.com/index.html).
+To analyze Cyclystics historical trip data I used the previous 12 months of Cyclystic trip data pulled from [divvy trip database](https://divvy-tripdata.s3.amazonaws.com/index.html). The datasets contain 13 columns.
+![download](https://user-images.githubusercontent.com/105673465/186822412-807f4511-3e11-40fd-aa87-8970215e2fc0.png)
 
 ## Process
 
