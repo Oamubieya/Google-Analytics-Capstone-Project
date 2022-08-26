@@ -62,4 +62,4 @@ I used this to create visualizations about the information gathered through anal
 
 ## Analysis
 
-*Through my analysis I found that of the 4,641,279 trips members accounted for 2,596,985 trips (55.95%) and casual members accounted for 2,044,294 trips (44.05%).
+* Through my analysis I found that of the 4,641,279 trips members accounted for 2,596,985 trips (55.95%) and casual members accounted for 2,044,294 trips (44.05%).
