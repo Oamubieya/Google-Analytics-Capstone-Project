@@ -15,3 +15,11 @@ The tools I used to analyze the data were Excel, SQL and Tableau.
 ### Excel
 
 I used this for the initial cleaning and the processing of the individual .csv files. I also added two more columns, ride_length and day_of_week, in order to gather more insights into our analysis. When creating the ride_length column I was able to find rows where the time started_at was later than the time ended_at and was able to delete those rows.
+
+### SQL
+
+I imported the twelve CSV files into SQL and merged them into a single file called divvy_trip_data_merged. In total there are 5,723,387 rows. No duplicates or other errors were found in the data. Due to the large amount of units I opted to delete rows with null values in start_station_name and end_station_name leaving a total of 4,641,279 rows.
+
+### Tableau
+
+I used this to create visualizations about the information gathered through analysis.
