@@ -63,3 +63,21 @@ I used this to create visualizations about the information gathered through anal
 ## Analysis
 
 * Through my analysis I found that of the 4,641,279 trips members accounted for 2,596,985 trips (55.95%) and casual members accounted for 2,044,294 trips (44.05%).
+* The average length of a trip for all cyclics was 21.36 minutes, 32.05 for casuals and 12.94 for members.
+* Of the three bike types, classic bikes were used by the majority of both casuals and members.
+* July and August are the months with the most rides with July being the highest for casuals and August the highest for members. January and February are the months with the least amount of rides for everyone.
+* Weekends are the most popular ride times for casual riders while weekdays are the most popular for members.
+* The most popular stations for casual riders are 
+![download](https://user-images.githubusercontent.com/105673465/186812667-df1ffd17-e27c-489c-a912-fff61c3a36bd.png)
+
+* The most popular stations for members are
+![download](https://user-images.githubusercontent.com/105673465/186812732-ee250cdb-d4df-4dc9-9ce8-b8f9802026c7.png)
+
+
+## Conclusion
+
+Based on the findings of this analysis these are my top recommendations.
+
+* When looking at the data casual riders ride more on the weekend. In order to appeal to casul riders, I would suggest adding promotions or discounts targeting lower rates for weekday rides. I would place these promotional messages at the top 10 start and end stations for casuals in order to reach the largest proportion of casuals.
+
+* Casual riders spend on average spend twice as much time riding their bikes than members. I would provide posters or messages at stations to show how much money could be saved in the long run by becoming a member rather than paying per trip or duration.
