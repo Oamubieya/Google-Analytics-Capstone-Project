@@ -58,4 +58,8 @@ FROM `divvy_trips.divvy_trip_data_2022_03`
 
 ### Tableau
 
-I used this to create visualizations about the information gathered through analysis. Which can be viewed [here](https://public.tableau.com/app/profile/olabanji.amubieya/viz/CaseStudyBikeShareAnalysis_16513350695540/Top10StartStation_1)
+I used this to create visualizations about the information gathered through analysis. All of which can be viewed [here](https://public.tableau.com/app/profile/olabanji.amubieya/viz/CaseStudyBikeShareAnalysis_16513350695540/Top10StartStation_1)
+
+## Analysis
+
+*Through my analysis I found that of the 4,641,279 trips members accounted for 2,596,985 trips (55.95%) and casual members accounted for 2,044,294 trips (44.05%).
