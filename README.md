@@ -19,7 +19,42 @@ I used this for the initial cleaning and the processing of the individual .csv f
 ### SQL
 
 Since the dataset was too large to work on in excel I imported the twelve CSV files into SQL and merged them into a single file called divvy_trip_data_merged. In total there are 5,723,387 rows. No duplicates or other errors were found in the data. Due to the large amount of units I opted to delete rows with null values in start_station_name and end_station_name leaving a total of 4,641,279 rows.
-https://console.cloud.google.com/bigquery?sq=986929924807:397a13b493f847f6bd794528f1c85201
+
+>SELECT * 
+FROM `divvy_trips.divvy_trip_data_2021_04`
+UNION ALL
+SELECT * 
+FROM `divvy_trips.divvy_trip_data_2021_05`
+UNION ALL
+SELECT * 
+FROM `divvy_trips.divvy_trip_data_2021_06`
+UNION ALL
+SELECT * 
+FROM `divvy_trips.divvy_trip_data_2021_07`
+UNION ALL
+SELECT * 
+FROM `divvy_trips.divvy_trip_data_2021_08`
+UNION ALL
+SELECT * 
+FROM `divvy_trips.divvy_trip_data_2021_09`
+UNION ALL
+SELECT * 
+FROM `divvy_trips.divvy_trip_data_2021_10`
+UNION ALL
+SELECT * 
+FROM `divvy_trips.divvy_trip_data_2021_11`
+UNION ALL
+SELECT * 
+FROM `divvy_trips.divvy_trip_data_2021_12`
+UNION ALL
+SELECT * 
+FROM `divvy_trips.divvy_trip_data_2022_01`
+UNION ALL
+SELECT * 
+FROM `divvy_trips.divvy_trip_data_2022_02`
+UNION ALL
+SELECT * 
+FROM `divvy_trips.divvy_trip_data_2022_03`
 
 ### Tableau
 
