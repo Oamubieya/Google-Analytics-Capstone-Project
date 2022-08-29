@@ -1,4 +1,4 @@
-# Google-Analytics-Capstone-Project
+# Google Analytics Capstone Project
 
 This repository contains an analysis completed for the capstone project of the Google Data Analytics Certificate course.
 
