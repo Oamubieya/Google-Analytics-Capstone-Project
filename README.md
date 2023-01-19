@@ -1,13 +1,17 @@
-# Google Analytics Capstone Project
-## Cyclistic Bike Share Data Analysis
+# Cyclistic Bike Share Data Analysis
+## Scenario
 
-This repository contains an analysis completed for the capstone project of the Google Data Analytics Certificate course.
+You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
-In this case study I used the data from a fictional bike rental company, Cyclistic, to try and determine the main differences between annual members and casual rider.  I will showcase he full process of cleaning, analyzing and visualizing the data, along with my final suggestions and summary of the data.
+## Ask
+
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
 
 ## The Data
 
-To analyze Cyclystics historical trip data I used the previous 12 months of Cyclystic trip data pulled from [divvy trip database](https://divvy-tripdata.s3.amazonaws.com/index.html). The datasets contain 13 columns.
+To analyze Cyclystics historical trip data I used the previous 12 months of Cyclystic trip data (04/2021 - 03/2022) pulled from [divvy trip database](https://divvy-tripdata.s3.amazonaws.com/index.html). These datasets contain the following 13 columns.
 
 ![download](https://user-images.githubusercontent.com/105673465/186822412-807f4511-3e11-40fd-aa87-8970215e2fc0.png)
 
