@@ -28,7 +28,7 @@ In order to process the data from the datasets I did the initial cleaning of the
 Since the dataset was too large to work on in excel I imported the twelve CSV files into Bigquery and merged them into a single file called divvy_trip_data_merged. In total there are 5,723,387 rows. No duplicates or other errors were found in the data. Due to the large amount of units I opted to delete rows with null values in start_station_name and end_station_name leaving a total of 4,641,279 rows.
 ```TSQL
 -- Merging the 12 datasets into one table for better usability
->SELECT * 
+SELECT * 
 FROM `divvy_trips.divvy_trip_data_2021_04`
 UNION ALL
 SELECT * 
